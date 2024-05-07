@@ -1,1 +1,5 @@
 # Sentiment-Analysis-Project-on-Songs-Lyrics
+This project was made during my internship at Lehman College Pathways to Student STEM Success Program. I conducted this project with another student from Lehman Collge and with guidance from a graduate student from Columbia University. Lyrics of songs over the years are analyzed using an emotion lexicon to detect the trends of emotions
+## Tools we used
+- Google Colab
+- Python
